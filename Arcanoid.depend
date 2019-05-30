@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1467699967 source:d:\Миха\Программирование\codeblocks\arcanoid\main.cpp
+	<graphics.h>
+	<dos.h>
+	<malloc.h>
+	<conio.h>
+	<stdio.h>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<menufunc.h>
+	<GAME.h>
+
+1467699967 source:d:\миха\программирование\codeblocks\arcanoid\main.cpp
+	<graphics.h>
+	<dos.h>
+	<malloc.h>
+	<conio.h>
+	<stdio.h>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<menufunc.h>
+	<GAME.h>
+
+1467968046 source:d:\миха\программирование\codeblocks\arcanoid — копия\main.cpp
+	<graphics.h>
+	<dos.h>
+	<malloc.h>
+	<conio.h>
+	<stdio.h>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<menufunc.h>
+	<BRICK.h>
+
